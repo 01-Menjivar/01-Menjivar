@@ -8,7 +8,7 @@ I'm a passionate Computer Science student who loves building new things, solving
 
 &nbsp;
 
-### 💭 About me
+### 💭 A bit about me
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -16,16 +16,16 @@ I'm a passionate Computer Science student who loves building new things, solving
 - 🌱 Learning **Next.js** 
 - 🤝 I'd love to collaborate on projects that **solve real problems**
 - 💬 Ask me about **React** or **JavaScript**
-- 🧮 Little fact about me: I really enjoy **math**
+- 🧮 Fact about me: I really enjoy **math**
 - 📫 Reach me at: [GitHub](https://github.com/01-Menjivar)
 
 &nbsp;
 
-### 🛠️ Technology Stack
+### 🛠️ Technologies & Tools
 
 <p>
   <a href="https://github.com/01-Menjivar">
-    <img width="50%" align="right" alt="Oscar's github stats" src="https://github-readme-stats.vercel.app/api?username=01-Menjivar&show_icons=true&hide_border=true&theme=dark" />
+    <img width="50%" align="right" alt="Oscar's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-Menjivar&layout=compact&hide_border=true&theme=dark" />
   </a>
   
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -34,8 +34,11 @@ I'm a passionate Computer Science student who loves building new things, solving
   <br />
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
   <br />
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 </p>
 
 &nbsp;
