@@ -17,7 +17,7 @@ I'm a passionate Computer Science student who loves building new things, solving
 - 🤝 I'd love to collaborate on projects that **solve real problems**
 - 💬 Ask me about **React** or **JavaScript**
 - 🧮 Fact about me: I really enjoy **math**
-- 📫 Reach me at: [GitHub](https://github.com/01-Menjivar)
+- 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/oscar-ayala-b05236391/)
 
 &nbsp;
 
