@@ -14,9 +14,9 @@ I'm a passionate Computer Science student who loves building new things, solving
 
 - 🎨 Currently focused on **Frontend Development**
 - 🌱 Learning **Next.js** 
-- 🤝 I'd love to collaborate on projects that **solve real problems**, especially in **education**
+- 🤝 I'd love to collaborate on projects that **solve real problems**
 - 💬 Ask me about **React** or **JavaScript**
-- ⚡ Little fact about me: I really enjoy **math**
+- 🧮 Little fact about me: I really enjoy **math**
 - 📫 Reach me at: [GitHub](https://github.com/01-Menjivar)
 
 &nbsp;
