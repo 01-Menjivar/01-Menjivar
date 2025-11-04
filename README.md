@@ -10,7 +10,7 @@ I'm a passionate Computer Science student who loves building new things, solving
 
 ### 💭 A bit about me
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="./assets/icon.svg" />
 
 - 🎨 Currently focused on **Frontend Development**
 - 🌱 Learning **Next.js** 
