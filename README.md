@@ -34,7 +34,7 @@ I'm a passionate Computer Science student who loves building new things, solving
   <br />
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   <br />
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
@@ -42,6 +42,7 @@ I'm a passionate Computer Science student who loves building new things, solving
 </p>
 
 &nbsp;
+
 
 ### ✨ Featured Projects
 
