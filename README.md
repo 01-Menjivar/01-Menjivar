@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-I'm a passionate Computer Science student who loves building new things, solving problems, and helping people whenever I can.
+I'm a passionate Software Engineering student who loves building new things, solving problems, and helping people whenever I can.
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/01-Menjivar)
 
