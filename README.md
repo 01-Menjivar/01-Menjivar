@@ -13,7 +13,14 @@ I'm a passionate Software Engineering student who loves building new things, sol
 <img width="50%" align="right" alt="Github" src="./assets/icon.svg" />
 
 - 🎨 Currently focused on **Frontend Development**
+- 🎓 **Full Stack Open** Certified by University of Helsinki
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/oscar-ayala-b05236391/)
+
+&nbsp;
+
+### 📜 Certifications
+
+[![Full Stack Open](https://img.shields.io/badge/Full_Stack_Open-University_of_Helsinki-8c1515?style=for-the-badge&logo=target&logoColor=white)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/dad1f58321e5b087cfbf6c910a2876e1)
 
 &nbsp;
 
@@ -49,7 +56,6 @@ I'm a passionate Software Engineering student who loves building new things, sol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 &nbsp;
-
 
 ### ✨ Featured Projects
 
