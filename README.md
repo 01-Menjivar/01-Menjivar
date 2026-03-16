@@ -20,7 +20,10 @@ I'm a passionate Software Engineering student who loves building new things, sol
 
 ### 📜 Certifications
 
-[![Full Stack Open](https://img.shields.io/badge/Full_Stack_Open-University_of_Helsinki-8c1515?style=for-the-badge&logo=target&logoColor=white)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/dad1f58321e5b087cfbf6c910a2876e1)
+> **Click the badge below to view the official certification:**
+
+[![Full Stack Open](https://img.shields.io/badge/University_of_Helsinki-Full_Stack_Open-8c1515?style=for-the-badge&logo=target&logoColor=white)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/dad1f58321e5b087cfbf6c910a2876e1)
+[![UX Certification](https://img.shields.io/badge/INSAFORP-UX_Design_-blue?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 &nbsp;
 
